@@ -68,13 +68,10 @@
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-| Halaman Welcome | Halaman Login & Registrasi | Halaman Katalog (Home) |
-| :---: | :---: | :---: |
-| ![Welcome Screen](docs/screenshots/welcome.png) | ![Login Screen](docs/screenshots/login.png) | ![Home Screen](docs/screenshots/home.png) |
+<img alt="Screenshot 2026-11-08 234348.png" src="../../../../../../Pictures/Screenshots/Screenshot%202026-11-08%20234348.png"/>
+![Screenshot 2026-11-08 234436.png](../../../../../../Pictures/Screenshots/Screenshot%202026-11-08%20234436.png)
+![Screenshot 2026-11-08 234458.png](../../../../../../Pictures/Screenshots/Screenshot%202026-11-08%20234458.png)
 
-| Formulir Order | Konfirmasi Pesanan | Profil Pelanggan |
-| :---: | :---: | :---: |
-| ![Order Screen](docs/screenshots/order.png) | ![Confirmation Screen](docs/screenshots/confirmation.png) | ![Profile Screen](docs/screenshots/profile.png) |
 
 ---
 
