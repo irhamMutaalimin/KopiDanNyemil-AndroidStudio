@@ -75,6 +75,3 @@
 
 ---
 
-## 📄 Lisensi & Catatan
-- **Catatan Tugas:** Aplikasi ini dibuat untuk kebutuhan tugas/studi kasus pemesanan online berbasis Android.
-- Data autentikasi dan keranjang belanja dikelola secara in-memory untuk simulasi alur pengguna.
